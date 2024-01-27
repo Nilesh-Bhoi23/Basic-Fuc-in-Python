@@ -1,4 +1,4 @@
-# function iin python
+# function in python
 A function is a block of code which only runs when it is called.
 <br>
 You can pass data, known as parameters, into a function.
